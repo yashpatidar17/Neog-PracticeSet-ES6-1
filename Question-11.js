@@ -4,7 +4,7 @@ const product = {
   description: "The iPhone is a smartphone developed by Apple"
 }
 
-const {title,price,description} = product;
+const { title, price, description } = product;
 
 console.log(title); // iPhone
 console.log(price); // 999
